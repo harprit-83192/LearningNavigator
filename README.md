@@ -33,13 +33,13 @@ mvn test
 
 ## Below are the results of the API requests made during testing:
 
-POST /students: Created successfully.
-GET /students/{id}: OK.
-GET /subjects: OK.
-GET /subjects/{id}: OK.
-POST /exams/{examId}: OK.
-GET /hidden-feature/{number}: OK.
-Other endpoints: No content (204).
+- POST /students: Created successfully.
+- GET /students/{id}: OK.
+- GET /subjects: OK.
+- GET /subjects/{id}: OK.
+- POST /exams/{examId}: OK.
+- GET /hidden-feature/{number}: OK.
+- DELETE endpoints: No content (204).
 
 ## Collection Data
 
